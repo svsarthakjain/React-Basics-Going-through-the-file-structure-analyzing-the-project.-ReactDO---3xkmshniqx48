@@ -5,9 +5,9 @@ const App = () => {
   return (
     <div id="main">
       <h1 data-ns-test="project-name">Name</h1>
-      <h1 data-ns-test="project-description">
+      <h2 data-ns-test="project-description">
         This is First React js Assingment
-      </h1>
+      </h2>
     </div>
   );
 };
